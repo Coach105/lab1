@@ -1,7 +1,7 @@
 package com.company;
 
 /**
- * Created by Kostya on 28.06.2016.
+ * Created by Kostya on 12.06.2016.
  * point-to-point messaging
  */
 import com.rabbitmq.client.*;
